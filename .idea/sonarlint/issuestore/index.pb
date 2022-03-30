@@ -1,0 +1,23 @@
+
+`
+0src/test/java/com/zein/sauce/verifyItemList.java,8\c\8c23c8ec271859587fb911a6ad60a4d86902fde5
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+O
+src/main/java/com/zein/App.java,f\5\f5fe1feabc43a1d9ca18436587a2831799eaf0a4
+`
+0src/main/java/com/zein/pageObject/LoginPage.java,8\3\83478956bc144a3a158ca9d787b80fe7f11911e2
+i
+9src/test/java/com/zein/LatihanSelenium/latihanFungsi.java,3\1\31396552856bf4482b5fd72dea7a2909b94b81a8
+[
++src/test/java/com/zein/PenguranganTest.java,a\7\a70afc01cb2c03176b413eee8ead03aae7c31690
+S
+#src/test/java/com/zein/AppTest.java,b\c\bc82a1df59057f606fc6ab515254b280a46d1f13
+a
+1src/test/java/com/zein/LatihanSelenium/ATest.java,2\5\25772cd7f89b6e2ba738da3289d8b298922389df
+c
+3src/test/java/com/zein/CobaPenyatuan/BaseClass.java,6\2\62cd52d265d434c39454729308e394d8477e4980
+c
+3src/test/java/com/zein/CobaPenyatuan/LoginTest.java,3\2\322a4f3696d0cf7d652adc227e81404929d74221
+^
+.src/test/java/com/zein/CobaPenyatuan/coba.java,0\8\08c41a2a96478a5dd0dbc8a420e4911d9be39efb
